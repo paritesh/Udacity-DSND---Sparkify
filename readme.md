@@ -6,8 +6,6 @@ The problem is to create a machine learning model to predict the user intent to 
 
 Files in this repo
 Folders
-
-BlogPics: A folder contains the pictures used in the blog post.
 readme.md
 Sparkify.ipynb : The main coding file in jypyter notebook format to work in Udacity workspace.
 Sparkify.html  : HTML file of Jupyter Notebook
